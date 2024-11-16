@@ -1,0 +1,43 @@
+h1 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+
+p {
+    color: brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-weight: 300;
+    text-align: center;
+}
+
+
+th {
+    color: rgb(61, 3, 26);
+    font-family: cursive;
+    font-size: large;
+}
+
+table {
+    border-radius: thick;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    padding-left: 35%;
+}
+
+
+
+button {
+    color: cadetblue;
+    border-radius: 1rem;
+    height: 80px;
+    width: 240px;
+    margin-left: 40%;
+}
